@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.30dcc192.css",
-    "main.js": "/Portfolio/static/js/main.6f7d8bd3.js",
+    "main.js": "/Portfolio/static/js/main.e93b45f1.js",
     "static/media/message.gif": "/Portfolio/static/media/message.ecb964d21c1779696066.gif",
     "static/media/bgimg.jpg": "/Portfolio/static/media/bgimg.9b4bcca399e2aafef08c.jpg",
     "static/media/hire.gif": "/Portfolio/static/media/hire.584616d2f29df5f2ae3e.gif",
     "static/media/Sri24.pdf": "/Portfolio/static/media/Sri24.08323fc51aa95cf949e7.pdf",
     "static/media/CRUD.jpeg": "/Portfolio/static/media/CRUD.b13c23f54d0e7c7f2a1a.jpeg",
+    "static/media/education2.png": "/Portfolio/static/media/education2.8705216da367c4eb49a8.png",
     "static/media/Essel.jpg": "/Portfolio/static/media/Essel.fd296c776741b17ab20d.jpg",
     "static/media/download1.jpg": "/Portfolio/static/media/download1.b7c6fd598c47edff9bba.jpg",
-    "static/media/education1.png": "/Portfolio/static/media/education1.96502cd665edb47f6376.png",
     "static/media/1.jpg": "/Portfolio/static/media/1.82ff5e841de028c2e785.jpg",
     "static/media/education.svg": "/Portfolio/static/media/education.416e669b1236d390a450c7824e975009.svg",
     "index.html": "/Portfolio/index.html",
     "main.30dcc192.css.map": "/Portfolio/static/css/main.30dcc192.css.map",
-    "main.6f7d8bd3.js.map": "/Portfolio/static/js/main.6f7d8bd3.js.map"
+    "main.e93b45f1.js.map": "/Portfolio/static/js/main.e93b45f1.js.map"
   },
   "entrypoints": [
     "static/css/main.30dcc192.css",
-    "static/js/main.6f7d8bd3.js"
+    "static/js/main.e93b45f1.js"
   ]
 }
